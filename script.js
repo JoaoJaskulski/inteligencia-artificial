@@ -22,31 +22,31 @@ const perguntas = [
     },
     {
        
-            enunciado: "",
+            enunciado: "Quando se trata de design de carros, você prefere...?",
             alternativas: [
                 {
-                    texto: "A energia geotérmica precisa ser mais explorada visto que utiliza o calor interno da terra, pois não depende do clima e é inesgotável.",
-                    afirmacao: "Você demonstra um perfil  de pesquisador e inovador que busca por meio da inovação soluções para o meio ambiente e sustentabilidade das gerações posteriores."
+                    texto: "Carros com um design mais moderno e inovador, com tecnologia de ponta..",
+                    afirmacao: "Reflete uma pessoa antenada nas tendências, que gosta de novidades e tecnologia no veículo.."
                 },
                 {
-                    texto:  "Seria interessante explorar primeiramente fontes renováveis exotérmicas, em segundo plano utilizar a energia geotérmica apesar dos custos elevados de explorações e possibilidades de contaminação de rios. ",
-                    afirmacao: "Você é uma pessoa que dá ênfase em priorizar os recursos disponíveis, pensando no meio ambiente e sem descartar o viés econômico."
+                    texto:  "Carros com um estilo mais clássico e atemporal, que nunca saem de moda.",
+                    afirmacao: "Indica alguém com gosto por tradição e que valoriza a durabilidade de um design mais clássico.."
                 }    
                
             ]
         },
         {
-            enunciado: "Hoje em dia é cada vez mais importante conhecer o seu corpo, suas qualidades, suas limitações e entender suas emoções. Saber controlá-las é o desafio das pessoas. A sua auto-estima impacta a sua qualidade de vida?",
+            enunciado: "Em uma viagem longa, qual é a característica mais importante que um carro deve ter?",
 
             alternativas: [
                 {
-                    texto: "Na maior parte do tempo, com certeza impacta, pois é a partir da autoestima que temos um olhar positivo ou negativo sobre nossas ações diárias. Sempre estou em busca de mais autoconhecimento.",
-                    afirmacao: "Você tem consciência que é importante ter uma boa auto-estima e procura se aprofundar mais sobre o assunto, vendo a vida de um jeito positivo."
+                    texto: "Conforto e assentos ergonômicos para longas horas de viagem.",
+                    afirmacao: "Aponta para uma pessoa que prioriza o conforto e a tranquilidade durante viagens longas."
                 },
                 {
-                    texto:    "Apenas ocasionalmente ou raramente. Às vezes minha autoestima oscila e isso pode afetar negativamente minha qualidade de vida em certas ocasiões.",
+                    texto:    "Desempenho e potência para ter uma experiência de direção mais emocionante.",
                
-                    afirmacao: "Você demomostra que precisa se conhecer mais e mostra uma consciência de uma crescente necessidade de cuidar mais da própria percepção e bem-estar emocional."
+                    afirmacao: "Mostra uma pessoa que busca emoção e performance, ideal para quem gosta de dirigir com mais liberdade.",
                 }    
                
             ]
