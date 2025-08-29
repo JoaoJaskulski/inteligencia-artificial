@@ -25,12 +25,12 @@ const perguntas = [
             enunciado: "Quando se trata de design de carros, você prefere...?",
             alternativas: [
                 {
-                    texto: "Carros com um design mais moderno e inovador, com tecnologia de ponta..",
-                    afirmacao: "Reflete uma pessoa antenada nas tendências, que gosta de novidades e tecnologia no veículo.."
+                    texto: "Carros com um design mais moderno e inovador, com tecnologia de ponta.",
+                    afirmacao: "Reflete uma pessoa antenada nas tendências, que gosta de novidades e tecnologia no veículo."
                 },
                 {
                     texto:  "Carros com um estilo mais clássico e atemporal, que nunca saem de moda.",
-                    afirmacao: "Indica alguém com gosto por tradição e que valoriza a durabilidade de um design mais clássico.."
+                    afirmacao: "Indica alguém com gosto por tradição e que valoriza a durabilidade de um design mais clássico."
                 }    
                
             ]
@@ -46,7 +46,7 @@ const perguntas = [
                 {
                     texto:    "Desempenho e potência para ter uma experiência de direção mais emocionante.",
                
-                    afirmacao: "Mostra uma pessoa que busca emoção e performance, ideal para quem gosta de dirigir com mais liberdade.",
+                    afirmacao: "Mostra uma pessoa que busca emoção e performance, ideal para quem gosta de dirigir com mais liberdade."
                 }    
                
             ]
